@@ -9,3 +9,10 @@
     width: 50%;
     float: right;
 }
+.buy-now-button{
+    background-image: linear-gradient(to bottom, rgb(47, 46, 46) 0%, rgb(0, 0, 0) 100%);
+    color: #fff;
+    border: nonr;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
