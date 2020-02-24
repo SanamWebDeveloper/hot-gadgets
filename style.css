@@ -1,6 +1,64 @@
 .top-section{
     margin-top: 30px;
 }
-body{
-    background-color: cadetblue;
+.buy-now-button{
+    background-image: linear-gradient(to bottom, rgb(87, 87, 87) 0%, rgb(2, 2, 2) 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 14px;
+    cursor: pointer;
+}
+.container{
+    margin-bottom: 100px;
+}
+
+.img1{
+    border:none;
+    box-shadow: 5px 5px 50px rgb(206, 206, 206);
+    border-radius: 2px 35px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.img2{
+    border:none;
+    box-shadow: 5px 5px 50px rgb(206, 206, 206);
+    border-radius: 35px 2px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.img3{
+    border:none;
+    box-shadow: 5px 5px 50px rgb(206, 206, 206);
+    border-radius: 35px 2px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.color-line{
+    height: 8px;
+    width: 110px;
+    background-image: linear-gradient(90deg, rgb(255, 201, 85), rgb(250, 125, 52));
+    margin: auto;
+    border-radius: 6px;
+}
+.card-footer , .card-body{
+    text-align: center;
+    border-top: none;
+    background-color: none;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 50px rgb(206, 206, 206);
+    border-radius: 10px;
 }
