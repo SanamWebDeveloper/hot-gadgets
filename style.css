@@ -1,0 +1,11 @@
+.header{
+    margin-top: 50px;
+}
+.logo{
+    width: 50%;
+    float: left;
+}
+.navigation-bar{
+    width: 50%;
+    float: right;
+}
